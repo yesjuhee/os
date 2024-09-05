@@ -20,7 +20,7 @@
   ```
 - Implement page fault handler
 
-## PA4 : Page replacement
+### PA4 : Page replacement
 - Implement page-level swapping
 - Mangage swappable pages with LRU list
 ---
